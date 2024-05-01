@@ -1,0 +1,6 @@
+charset-normalizer
+Flask
+gunicorn
+numpy
+pandas
+requests

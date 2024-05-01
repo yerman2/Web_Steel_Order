@@ -1,0 +1,7 @@
+Hola, Aquí dejo el Manual de Instrucciones:
+
+1) Primer Paso : Ir al escritorio, entrar en la Carpeta del Proyecto(StelOrderProyecto),dentro de la carpeta hacer clic derecho y darle clic en donde dice [Git Bash Here];
+
+2) Segundo Paso : copiar y pegar este comando -> python app.py
+
+3) Tercer Paso : Copiar la Dirección que proporciona la consola, y pegar esa direccion en el navegador...Listo, con eso el proyecto estará funcionando perfectamente
